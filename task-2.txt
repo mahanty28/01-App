@@ -1,0 +1,7 @@
+This is Task 2.
+
+Public void Task2() {
+
+   Int x = 10;
+
+}
